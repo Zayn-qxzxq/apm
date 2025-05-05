@@ -33,7 +33,7 @@ Kazakhstan’s game development scene is emerging but lacks representation in th
 Step-by-step guide to set up the project locally.
 
 1. Download Project files using the following links:  
-   1. Git Repo: git clone https://github.com/Zayn-qxzxq/apm.git  
+   1. Git Repo: git clone https://github.com/Zayn-qxzxq/IntermissionNeeded\_P13.git  
    2. Git LFS:   
       1. git lfs install   
       2. git lfs pull   
